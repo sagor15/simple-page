@@ -1,0 +1,280 @@
+<!---------------- BODY IN  ----------------->
+  <body>
+    <!-- <h1 style="text-align: center; color: gray">My Name is sagor</h1>
+    <hr />
+    <p style="text-align: center; color: rgb(223, 115, 115)">
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur qui sed vel sunt voluptate beatae
+      totam voluptatum, magnam commodi reiciendis vitae<br />necessitatibus earum quaerat ab reprehenderit
+      error dolorum vero veniam.
+    </p>
+    <br /><br />
+    <img style="height: 500px; width: 100%" src="imgage/sagor.jpg" />
+    <h2 style="color: teal; font-size: 35px; margin-left: 25px">Name Of Courses Font End Developer</h2>
+    <ol style="margin-left: 100px">
+      <li style="color: rgb(177, 228, 177); font-size: 25px">Html 5</li>
+      <li style="color: rgb(214, 172, 243); font-size: 25px">Css 3</li>
+      <li style="color: rgb(241, 224, 68); font-size: 25px">Basic Javascript</li>
+      <li style="font-size: 25px">Bootstrap</li>
+      <li style="color: rgb(83, 8, 83); font-size: 25px">Wordpress theme customize</li>
+    </ol>
+    <p>এগুলা শিখলে মোটামুটি আকারে Font End Developer হিসেবে পরিচিত লাভ করা যায় ।</p>
+    <br /><br />
+    <hr />
+    <iframe
+      width="50%"
+      height="315"
+      src="https://www.youtube.com/embed/oN8aS_HW4k8"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    ></iframe>
+    <iframe
+      margin-left="50px"
+      width="49%"
+      height="315"
+      src="https://www.youtube.com/embed/oN8aS_HW4k8"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    ></iframe>
+
+    <div>
+      <table>
+        <caption style="color: tomato; margin-bottom: 5px">
+          Student Details
+        </caption>
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>GPA</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>201</td>
+            <td>Tondra</td>
+            <td>5.00</td>
+          </tr>
+          <tr>
+            <td>202</td>
+            <td>Naima</td>
+            <td>5.00</td>
+          </tr>
+          <tr>
+            <td>203</td>
+            <td>Kona</td>
+            <td>4.80</td>
+          </tr>
+          <tr>
+            <td>204</td>
+            <td>Anika</td>
+            <td>4.50</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <br /><br /><br /><br /><br />  -->
+
+    <!-- 
+
+<h3>Registration Form</h3>
+
+    <div>
+      <label for="fullname">Fullname :</label>
+      <input type="text" name="fullname" id="fullname" />
+    </div><br>
+
+    
+
+    <div>
+      <label for="email">Email :</label>
+      <input type="email" name="email" id="email" />
+    </div><br>
+
+    <div>
+      <label for="passowrd">passowrd :</label>
+      <input type="password" name="passowrd" id="passowrd" />
+    </div><br>
+
+    <div>
+      <label for="dob">Date of Birth :</label>
+      <input type="date" name="dob" id="dob" />
+    </div><br>
+
+    <div>
+      <label for="photo">Chose your photo</label>
+      <input type="file" name="photo" id="photo" />
+    </div><br>
+
+    <div>
+      <label for="gender">Gender :</label>
+      <input type="radio" name="gender" id="gender" value="male" />Male
+      <input type="radio" name="gender" id="gender" value="female">Female
+    </div><br>
+
+
+    <div>
+      <label for="religion">Religion :</label>
+      <input type="checkbox" name="religion" id="religion" value="Muslim" />Muslim
+      <input type="checkbox" name="religion" id="religion" value="Hindu">Hindu
+      <input type="checkbox" name="religion" id="religion" value="Cristan">Cristan
+    </div><br>
+
+
+    <div>
+      <label for="department">Department :</label>
+      <select name="department" >
+        <option value="cse">CSE</option>
+        <option value="Eco" selected>ECO</option>
+        <option value="llb">LLB</option>
+      </select>
+    </div><br>
+
+
+    <div>
+      <label for="message">Message : </label><br><br>
+      <textarea name="messege" id="messege" cols="30.2" rows="5.6"></textarea>
+    </div>
+
+
+    <div>
+      <input type="submit" value="Register">
+      <input type="reset" value="Clear">
+    </div>
+     -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* table {
+    width: 600px;
+    height: 350px;
+    border: 1px solid red;
+    margin-left: 30%;
+    margin-right: 50%;
+    border-collapse: collapse;
+    margin-top: 10%;
+  }
+  tr,
+  th {
+    color: black;
+  }
+  tr,
+  th,
+  td {
+    border: 1px solid red;
+    text-align: center;
+    padding: 15px;
+  }
+  th {
+    background-color: rgb(212, 243, 212);
+  }
+  tr,
+  td {
+    background-color: rgb(34, 53, 4);
+    color: white;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <form action="">
+      <h1>Registration Form</h1>
+      <hr />
+
+      <input type="text" name="searce" id="searce" placeholder="Searce" />
+        <br>
+      <label for="fullname">Fullname :</label>
+      <input type="text" name="fullname" id="fullname" />
+      <label for="email">Email :</label>
+      <input type="text" name="email" id="email" />
+
+      <label for="passowrd">Passowrd :</label>
+      <input type="password" name="passowrd" id="password" />
+
+
+
+
+
+input[type="text"] {
+  width: 100%;
+  margin: 20px 0px;
+  padding: 20px 25px;
+  box-sizing: border-box;
+  font-size: 15px;
+  border: 2px solid red;
+  border-radius: 5px;
+  /* background-color: rgb(240, 237, 233); */
+  color: black;
+  border: none;
+  border-bottom: 3px solid red;
+}
+
+input[type="password"] {
+  width: 100%;
+  margin: 20px 0px;
+  padding: 20px 25px;
+  box-sizing: border-box;
+  font-size: 15px;
+  border: 2px solid red;
+  border-radius: 5px;
+  /* background-color: rgb(240, 237, 233); */
+  color: black;
+  border: none;
+  border-bottom: 3px solid red;
+}
+
+#searce {
+  background-image: url(imgage/search.png);
+  background-repeat: no-repeat;
+  font-size: 20px;
+  padding: 15px 40px;
+  background-position: 8px;
+  background-color: white;
+  color: black;
+  width: 250px;
+  transition: width 0.5s ease-in-out;
+}
+#searce:hover {
+  width: 100%;
+}
+
+form label {
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
